@@ -9,8 +9,8 @@
 
 ## Home
 
-| Link | GitHub |
-| ---- | ------ |
+| Link |
+| ---- |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-orchis](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-orchis) |
