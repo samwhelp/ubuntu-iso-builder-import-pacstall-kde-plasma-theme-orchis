@@ -1,13 +1,11 @@
 
 
-# ubuntu-iso-builder-import-pacstall-kde-plasma-theme-orchis
-
 > [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-orchis](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-orchis)
 
 
 
 
-## Home
+# Home
 
 | Link |
 | ---- |
