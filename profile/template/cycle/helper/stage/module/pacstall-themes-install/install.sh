@@ -90,8 +90,6 @@ local run_cmd=$(cat << __EOF__
 		bean-appearance-citrus-icon-theme
 		bean-appearance-greystone-icon-theme
 
-
-		bean-appearance-citrus-icon-theme
 		bean-appearance-orchis-gtk-theme
 		bean-appearance-orchis-kde-theme
 
